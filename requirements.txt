@@ -1,0 +1,6 @@
+numpy >= 1.21
+matplotlib>=3.4.3
+tqdm>=4.62.3
+torchnet>=0.0.4
+opencv-python>=4.5.4.58
+
